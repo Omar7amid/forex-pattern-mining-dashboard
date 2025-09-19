@@ -1,0 +1,45 @@
+{
+  "name": "forex-pattern-mining-dashboard",
+  "version": "1.0.0",
+  "description": "Machine Learning Dashboard for Forex Pattern Mining with Kaggle Integration",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "15.3.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "typescript": "^5",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.2",
+    "tailwindcss": "^3.4.1",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.4.21"
+  },
+  "keywords": [
+    "forex",
+    "machine-learning", 
+    "pattern-mining",
+    "kaggle-api",
+    "algorithmic-trading",
+    "nextjs",
+    "typescript",
+    "dashboard"
+  ],
+  "author": "PcityB",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PcityB/forex-pattern-mining-dashboard.git"
+  },
+  "homepage": "https://sb-6bdk28nh1x88.vercel.run"
+}
